@@ -1,0 +1,6 @@
+/home/francis/Soluciones/PostgresClientes/PostgresClientes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/francis/Soluciones/PostgresClientes/PostgresClientes/obj/x86/Debug/PostgresClientes.gtk-gui.gui.stetic
+/home/francis/Soluciones/PostgresClientes/PostgresClientes/bin/Debug/PostgresClientes.exe.mdb
+/home/francis/Soluciones/PostgresClientes/PostgresClientes/bin/Debug/PostgresClientes.exe
+/home/francis/Soluciones/PostgresClientes/PostgresClientes/obj/x86/Debug/PostgresClientes.exe
+/home/francis/Soluciones/PostgresClientes/PostgresClientes/obj/x86/Debug/PostgresClientes.exe.mdb

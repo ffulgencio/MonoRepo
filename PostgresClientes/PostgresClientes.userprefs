@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PostgresClientes/MainWindow.cs">
+    <Files>
+      <File FileName="PostgresClientes/Program.cs" Line="1" Column="1" />
+      <File FileName="PostgresClientes/Conexion.cs" Line="1" Column="1" />
+      <File FileName="PostgresClientes/Auxiliares.cs" Line="42" Column="42" />
+      <File FileName="PostgresClientes/MainWindow.cs" Line="54" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
