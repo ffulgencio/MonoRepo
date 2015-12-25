@@ -8,7 +8,7 @@ namespace PostgresClientes
 	public class PgConnexion
 	{
 
-		public static NpgsqlConnection pcon=new NpgsqlConnection("Server=localhost;port=5432;Database=prueba;User ID=postgres;Password=postgres;Pooling=false;");
+		public static NpgsqlConnection pcon=new NpgsqlConnection("Server=localhost;port=5432;Database=prueba;User ID=postgres;Password=;Pooling=false;");
 
 		public static void conectar()
 		{
